@@ -8,4 +8,4 @@ Kelas: RB
 
 ## Video Dokumentasi
 
-![Dokumentasi](./videos/dokumentasi.mp4)
+https://github.com/user-attachments/assets/4f786cb8-7d96-4b2f-baaa-2302fe9c6a2e
