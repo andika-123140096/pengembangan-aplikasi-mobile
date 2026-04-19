@@ -8,6 +8,8 @@ Kelas: RB
 
 ## Video Dokumentasi
 
+https://github.com/user-attachments/assets/7b44ff70-f783-4ab3-819d-bce77861b799
+
 ## Screenshots
 
 ![list_notes](./images/list_notes.png)
