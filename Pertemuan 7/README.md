@@ -10,19 +10,19 @@ Kelas: RB
 
 ## Screenshots
 
-[list_notes](./images/list_notes.png)
+![list_notes](./images/list_notes.png)
 
-[list_favorite_notes](./images/list_favorite_notes.png)
+![list_favorite_notes](./images/list_favorite_notes.png)
 
-[settings](./images/settings.png)
+![settings](./images/settings.png)
 
-[profile](./images/profile.png)
+![profile](./images/profile.png)
 
-[add_new_note](./images/add_new_note.png)
+![add_new_note](./images/add_new_note.png)
 
-[note_detail](./images/note_detail.png)
+![note_detail](./images/note_detail.png)
 
-[edit_note](./images/edit_note.png)
+![edit_note](./images/edit_note.png)
 
 ## Fitur Implementasi Pertemuan 7
 
