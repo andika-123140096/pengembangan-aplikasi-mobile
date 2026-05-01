@@ -58,9 +58,6 @@ REQUIREMENTS:
   <img src="images/quiz_screen.png" width="30%" />
 </p>
 
-## Video Dokumentasi
-[Link Video Dokumentasi - Jika ada]
-
 ## Teknologi yang Digunakan
 - **Framework**: Compose Multiplatform (Android & iOS)
 - **Language**: Kotlin
